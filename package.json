@@ -1,0 +1,24 @@
+{
+    "name": "i-js-environment",
+    "version": "1.0.0",
+    "description": "A JavaScript project environment with data structures and algorithms.",
+    "main": "src/",
+    "type": "module",
+    "scripts": {
+      "start": "node src/your-code.js"
+    },
+    "author": "Gourish-i",
+    "license": "MIT",
+    "engines": {
+      "node": ">=12.0.0"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "gitignore": [
+      "node_modules/",
+      "dist/"
+    ]
+  }
+  
